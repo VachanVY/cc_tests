@@ -20,6 +20,10 @@ cd writing-a-c-compiler-tests
 
 ## Usage Examples
 
+0. Run tests for compiler driver:
+```
+python3 -m unittest tests/test_compiler_driver.py -v
+```
 
 1. Run the tests for chapters 1-4
 ```
